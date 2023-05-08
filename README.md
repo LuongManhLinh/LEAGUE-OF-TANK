@@ -24,7 +24,7 @@ Game's demo: https://youtu.be/0lNHREqGOJo
   -> Change high DPI settings -> check the box in High DPI scaling override, 
   then choose OK and Apply this.
 
-- Run file LEAGUR_OF_TANK.exe to play the game
+- Run file LEAGUE_OF_TANK.exe to play the game
 
 ## Game discription
 
