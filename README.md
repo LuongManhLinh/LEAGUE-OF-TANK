@@ -1,4 +1,4 @@
-# League of Tank - A-SDL2-C++-Game
+# League of Tank - A-SDL2-C++Game
 
 ## Introduction
 
