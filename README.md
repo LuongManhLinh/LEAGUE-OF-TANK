@@ -61,3 +61,5 @@ In this version, the mission time is 12 minutes, and the maximum number of times
 - F : Show informations (levels, stored ores)
 
 - Esc: Pause the game
+
+- P : Immediately receive 100 irons, 100 titans and 100 sulfurs (please only use this button when the game is hard)
