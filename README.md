@@ -4,7 +4,7 @@
 
 A game project made with SDL2 C++.
 
-Game's demo: https://youtu.be/0lNHREqGOJo
+Game's demo: https://youtu.be/nVExaZT8CWM
 
 ## Project uses:
 - SDL2 2.26.3 mingw.
